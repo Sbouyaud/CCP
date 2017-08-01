@@ -1,7 +1,7 @@
 Préparer le CCP, comment réussir
 --------------------------------
 
-****Quelles sont les compétences professionnelles à valider****
+####Quelles sont les compétences professionnelles à valider
 
 **Développer des pages web en lien avec une base de données**
 > Les pages webs utilisent les bases de données (mysql, php ...).
@@ -9,7 +9,7 @@ Préparer le CCP, comment réussir
 **Mettre en oeuvre une solution de gestion de contenu ou e-commerce.**
 > Les pages webs répondent aux fonctionnalités décrites dans le cahier des charges.
 
-** Développer une simple application de mobilité numérique.**
+**Développer une simple application de mobilité numérique.**
 > L'application doit pouvoir s'adapter sur mobile.
 
 **Utiliser l'anglais dans son activité professionnelle en informatique.**
