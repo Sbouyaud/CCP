@@ -1,22 +1,22 @@
 Préparer le CCP, comment réussir
 --------------------------------
 
-#### Quelles sont les compétences professionnelles à valider
+### Quelles sont les compétences professionnelles à valider
 
-**Développer des pages web en lien avec une base de données**
+##### Développer des pages web en lien avec une base de données
 > Les pages webs utilisent les bases de données (mysql, php ...).
 
-**Mettre en oeuvre une solution de gestion de contenu ou e-commerce.**
+##### Mettre en oeuvre une solution de gestion de contenu ou e-commerce
 > Les pages webs répondent aux fonctionnalités décrites dans le cahier des charges.
 
-**Développer une simple application de mobilité numérique.**
+##### Développer une simple application de mobilité numérique
 > L'application doit pouvoir s'adapter sur mobile.
 
-**Utiliser l'anglais dans son activité professionnelle en informatique.**
+##### Utiliser l'anglais dans son activité professionnelle en informatique
 > Etre capable de présenter (le résumé) son projet en anglais.
 
 
-#### Les modalités de l'examen
+### Les modalités de l'examen
 
 + 30 minutes, sur la présentation du projet.
 
@@ -25,7 +25,7 @@ Préparer le CCP, comment réussir
 + 10 minutes, de bilan final (question sur notre avenir professionnel, comment voit-on le métier ect...).
 
 
-#### La préparation
+### La préparation
 
 1) dossier technique.
 > rapport de projet (cahier des charges, comment répondre au cahier des charges, comment aller plus loin dans le projet...).
@@ -36,7 +36,7 @@ Préparer le CCP, comment réussir
 3) Mettre en place une présentation visuelle.
 > Le support de la présentation orale (Powerpoint, google slides, prezi...).
 
-#### Conseils
+### Conseils
 
 + Une introduction en anglais est recommandée (pour la présentation du projet par exemple).
 
