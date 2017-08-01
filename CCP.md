@@ -1,52 +1,52 @@
-Préparer le CCP, comment réussir
+PrÃ©parer le CCP, comment rÃ©ussir
 --------------------------------
 
-####Quelles sont les compétences professionnelles à valider
+#### Quelles sont les compÃ©tences professionnelles Ã  valider
 
-**Développer des pages web en lien avec une base de données**
-> Les pages webs utilisent les bases de données (mysql, php ...).
+**DÃ©velopper des pages web en lien avec une base de donnÃ©es**
+> Les pages webs utilisent les bases de donnÃ©es (mysql, php ...).
 
 **Mettre en oeuvre une solution de gestion de contenu ou e-commerce.**
-> Les pages webs répondent aux fonctionnalités décrites dans le cahier des charges.
+> Les pages webs rÃ©pondent aux fonctionnalitÃ©s dÃ©crites dans le cahier des charges.
 
-**Développer une simple application de mobilité numérique.**
+**DÃ©velopper une simple application de mobilitÃ© numÃ©rique.**
 > L'application doit pouvoir s'adapter sur mobile.
 
-**Utiliser l'anglais dans son activité professionnelle en informatique.**
-> Etre capable de présenter (le résumé) son projet en anglais.
+**Utiliser l'anglais dans son activitÃ© professionnelle en informatique.**
+> Etre capable de prÃ©senter (le rÃ©sumÃ©) son projet en anglais.
 
 
-####Les modalités de l'examen
+#### Les modalitÃ©s de l'examen
 
-+ 30 minutes, sur la présentation du projet.
++ 30 minutes, sur la prÃ©sentation du projet.
 
 + 20 minutes, de questions sur le projet/et technique.
 
-+ 10 minutes, de bilan final (question sur notre avenir professionnel, comment voit-on le métier ect...).
++ 10 minutes, de bilan final (question sur notre avenir professionnel, comment voit-on le mÃ©tier ect...).
 
 
-####La préparation
+#### La prÃ©paration
 
 1) dossier technique.
-> rapport de projet (cahier des charges, comment répondre au cahier des charges, comment aller plus loin dans le projet...).
+> rapport de projet (cahier des charges, comment rÃ©pondre au cahier des charges, comment aller plus loin dans le projet...).
 
-2) Dossier de synthèse (DSPP).
-> reprendre toutes les expériences en lien avec le développement (DECLIC, BTS SIO, projets personnels, projets en cours, projets réalisés en formation...).
+2) Dossier de synthÃ¨se (DSPP).
+> reprendre toutes les expÃ©riences en lien avec le dÃ©veloppement (DECLIC, BTS SIO, projets personnels, projets en cours, projets rÃ©alisÃ©s en formation...).
 
-3) Mettre en place une présentation visuelle.
-> Le support de la présentation orale (Powerpoint, google slides, prezi...).
+3) Mettre en place une prÃ©sentation visuelle.
+> Le support de la prÃ©sentation orale (Powerpoint, google slides, prezi...).
 
-####Conseils
+#### Conseils
 
-+ Une introduction en anglais est recommandée (pour la présentation du projet par exemple).
++ Une introduction en anglais est recommandÃ©e (pour la prÃ©sentation du projet par exemple).
 
-+ Expliquer les raisons pour lesquelles le projet n'a pas pu être achevé si c'est le cas (expliquer les contraintes techniques, formation "trop" courte ect...).
++ Expliquer les raisons pour lesquelles le projet n'a pas pu Ãªtre achevÃ© si c'est le cas (expliquer les contraintes techniques, formation "trop" courte ect...).
 
-+ Ne pas fumer avant la présentation orale.
++ Ne pas fumer avant la prÃ©sentation orale.
 
 + Ne pas surcharger les slides.
 
-+ Essayer de bien détailler lors des questions (ne pas hésiter à faire des schémas, utiliser le tableau ect..).
++ Essayer de bien dÃ©tailler lors des questions (ne pas hÃ©siter Ã  faire des schÃ©mas, utiliser le tableau ect..).
 
-+ Ne pas oublier de faire un index technique à la fin du dossier (telle technique/technologie, telle page).
++ Ne pas oublier de faire un index technique Ã  la fin du dossier (telle technique/technologie, telle page).
 
